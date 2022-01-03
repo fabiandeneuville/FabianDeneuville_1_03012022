@@ -4,6 +4,19 @@ Prise en main de la formation de développeur web
 
 ----
 
-Consigne :
+Consignes :
+- Définir un planning de formation
+- Rejoindre les canaux de discussion Workplace
+- Réaliser une veille technologique
+- Suivre les cours relatifs au projet
 
-Détail des fichiers :
+----
+
+Livrables :
+- <a href="https://calendar.google.com/calendar/embed?src=griu8u3uhtmlo7p1eb2furpgv4%40group.calendar.google.com&ctz=Europe%2FParis" target="_blank">Planning de formation</a>
+- Capture d'ecran d'un post sur Workplace
+
+![P1_02_postworkplace](https://user-images.githubusercontent.com/94392055/147943177-6b56ddfc-b5d1-4ab5-b40b-bda7f6c6fa78.png)
+
+- Lien ou capture d'ecran de l'outil de veille
+
