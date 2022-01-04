@@ -11,34 +11,52 @@ Depuis deux mois j'ai entamé un <b>gros travail d'apprentissage</b> en autonomi
 
 ---
 
-<b>Mes objectif :</b>
-1.  Atteindre en 6 mois, grâce à un investissement à plein temps, le niveau d'un développeur Junior ou d'integrateur web pour pouvoir être employable dès la fin de ma formation.
-2.  Par la suite, je souhaite développer en parallèle de mon acivité profesionnelle, un certains nombre de sites : site pour ma communauté de collectionneurs, site e-commerce pour la vente de jouets de collection, réseau social familial (à mon échelle familiale) pour le partage de contenu (photos, vidéos, documents) et plein d'autres choses ...
-3.  A moyen et long terme, j'envisage de m'orienter vers une activité de freelance.
+<b>Ce que j'ai compris du métier de développeur web :</b>
+<ul align="justify">
+  <li>Un <b>métier d'avenir</b>, dans un contexte de numérisation de l'économie</li>
+  <li>Un métier qui regroupe de <b>nombreuses spécificités</b> : front-end, back-end, full-stack ...</li>
+  <li>Un métier en <b>perpétuelle évolution</b> et donc une nécessité à <b>maintenir à jour</b> ses compétences techniques et connaissances, notamment grâce à la mobilisation de <b>"soft skills"</b> et une <b>veille informationnelle continue</b>, tout au long de la vie professionnelle</li>
+  <li>Il existe une <b>multitude de languages de programmation</b> et donc toujours plusieurs solutions à un problème donné</li>
+ </ul>
+ 
+ ----
 
----
+<b>Mes objectif :</b>
+<ol align="justify">
+  <li>Atteindre en 6 mois, grâce à un <b>investissement à plein temps</b>, le niveau d'un développeur Junior ou d'integrateur web pour pouvoir être <b>employable dès la fin de ma formation</b>.</li>
+  <li>Par la suite, je souhaite <b>développer en parallèle de mon acivité profesionnelle</b>, un certains nombre de sites : site pour ma communauté de collectionneurs, site e-commerce pour la vente de jouets de collection, réseau social familial (à mon échelle familiale) pour le partage de contenu (photos, vidéos, documents) et plein d'autres choses ...</li>
+  <li>A moyen et long terme, j'envisage de m'orienter vers une activité de freelance.</li>
+</ol>
+
+------
 
 <b>Mes forces :</b>
-- Grande capacité de travail
-- Goût pour l'appentissage, curiosité
-- Goût pour la résolution de problèmes
-- Expérience dans le domaine du web marketing
+<ul align="justify">
+  <li>Grande capacité de travail</li>
+  <li>Goût pour l'appentissage, curiosité</li>
+  <li>Goût pour la résolution de problèmes</li>
+  <li>Expérience dans le domaine du web marketing</li>
+ </ul>
 
 ---
 
 <b>Mes faiblesses :</b>
-- Gestion du stress à travailler
-- Difficulté à assimiler rapidement des concepts trop abstraits
-- Domaine relavement nouveau pour moi
-- "Culture informatique" à peaufiner 
+<ul align="justify">
+  <li>Gestion du stress à travailler</li>
+  <li>Difficulté à assimiler rapidement des concepts trop abstraits</li>
+  <li>Domaine relavement nouveau pour moi</li>
+  <li>"Culture informatique" à peaufiner </li>
+</ul>
 
 ----
 
 <b>Consignes du PROJET 1 :</b>
-- Définir un planning de formation
-- Rejoindre les canaux de discussion Workplace
-- Réaliser une veille technologique
-- Suivre les cours relatifs au projet
+<ul align="justify">
+  <li>Définir un planning de formation</li>
+  <li>Rejoindre les canaux de discussion Workplace</li>
+  <li>Réaliser une veille technologique</li>
+  <li>Suivre les cours relatifs au projet</li>
+</ul>
 
 ----
 
